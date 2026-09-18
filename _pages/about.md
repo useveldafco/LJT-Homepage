@@ -26,6 +26,14 @@ Research Interests
 - Hallucination in Vision-Language Models (VLM)
 - LLM truthfulness and Interpretability
 
+Skills
+======
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
+
 Publications
 ======
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
