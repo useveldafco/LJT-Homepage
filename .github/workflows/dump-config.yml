@@ -1,0 +1,12 @@
+name: Dump config
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show _config.yml
+        run: cat _config.yml
