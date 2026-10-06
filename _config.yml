@@ -137,10 +137,10 @@ defaults:
 
 # Publication categories
 publication_category:
-  - preprints:
-      title: "Preprints"
-  - conferences:
-      title: "Conference Papers"
+  preprints:
+    title: "Preprints"
+  conferences:
+    title: "Conference Papers"
 
 # HTML compression
 compress_html:
