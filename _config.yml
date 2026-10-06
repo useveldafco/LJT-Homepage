@@ -87,12 +87,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -102,7 +99,6 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
